@@ -1,1 +1,1 @@
-# Aprendizaje-Autom-tico-y-Redes-Neuronales
+# Aprendizaje-Automático-y-Redes-Neuronales
